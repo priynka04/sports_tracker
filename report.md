@@ -1,4 +1,11 @@
 # Technical Report — Multi-Object Detection & ID Tracking
+## Source Video
+- **URL:** https://raw.githubusercontent.com/opencv/opencv/master/samples/data/vtest.avi
+- **Source:** OpenCV official GitHub repository (publicly accessible)
+- **Description:** A publicly available pedestrian surveillance video from the 
+  official OpenCV sample dataset. It contains multiple people walking in an 
+  outdoor area, making it ideal for multi-object detection and tracking evaluation.
+- **License:** Publicly available open-source sample data from OpenCV
 
 ## 1. Model Used — YOLOv8 Nano
 YOLOv8 (You Only Look Once v8) by Ultralytics is a real-time

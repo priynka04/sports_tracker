@@ -1,7 +1,7 @@
 # Multi-Object Detection and Persistent ID Tracking
 
 ## Source Video
-[PASTE YOUR YOUTUBE LINK HERE]
+https://raw.githubusercontent.com/opencv/opencv/master/samples/data/vtest.avi
 
 ## What This Does
 Detects all players in a sports video and assigns each one a
