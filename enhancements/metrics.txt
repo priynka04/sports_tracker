@@ -1,0 +1,24 @@
+
+========================================
+       EVALUATION METRICS SUMMARY
+========================================
+Video Duration       : 79.5 seconds
+Total Frames         : 795
+FPS                  : 10.0
+
+--- Detection Stats ---
+Total Unique IDs     : 26
+Avg Active Tracks    : 6.78 per frame
+Max Active Tracks    : 11
+Min Active Tracks    : 0
+Detection Rate       : 99.7% of frames had detections
+
+--- Tracking Stats ---
+Avg Track Length     : 207.3 frames
+  (higher = more stable ID assignment)
+
+--- Observations ---
+ID switches may occur during heavy occlusion.
+Subjects exiting/re-entering frame get new IDs.
+No GPU used — CPU inference only.
+========================================
